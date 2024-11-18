@@ -1,0 +1,35 @@
+103.43.18.95,ipaddress,BrazenBamboo DEEPDATA C2 IP Address
+103.27.109.217,ipaddress,BrazenBamboo LightSpy C2 IP Address
+103.27.109.28,ipaddress,BrazenBamboo LightSpy C2 IP Address
+103.43.18.22,ipaddress,BrazanBamboo C2 PANEL
+203.83.9.62,ipaddress,BrazenBamboo DEEPDATA C2 IP Address
+43.248.136.241,ipaddress,BrazenBamboo DEEPDATA C2 IP Address
+203.83.9.60,ipaddress,BrazenBamboo DEEPDATA C2 IP Address
+202.43.239.13,ipaddress,BrazenBamboo DEEPDATA C2 IP Address
+119.147.213.48,ipaddress,BrazenBamboo DEEPDATA C2 IP Address
+103.43.19.64,ipaddress,BrazenBamboo LightSpy C2 IP Address
+121.201.109.98,ipaddress,BrazanBamboo C2 PANEL
+103.27.110.159,ipaddress,BrazenBamboo LightSpy C2 IP Address
+49.232.185.137,ipaddress,BrazenBamboo LightSpy C2 IP Address
+103.43.19.245,ipaddress,BrazanBamboo C2 PANEL
+58.221.58.240,ipaddress,BrazenBamboo LightSpy C2 IP Address
+118.195.234.243,ipaddress,BrazenBamboo LightSpy C2 IP Address
+47.236.30.141,ipaddress,BrazenBamboo LightSpy C2 IP Address
+154.91.196.185,ipaddress,BrazenBamboo LightSpy C2 IP Address
+45.155.220.194,ipaddress,BrazenBamboo LightSpy C2 IP Address
+222.219.183.84,ipaddress,BrazenBamboo LightSpy C2 IP Address
+27.124.37.30,ipaddress,BrazenBamboo LightSpy C2 IP Address
+27.124.37.59,ipaddress,BrazenBamboo LightSpy C2 IP Address
+27.124.37.64,ipaddress,BrazenBamboo LightSpy C2 IP Address
+43.248.136.110,ipaddress,BrazenBamboo LightSpy C2 IP Address
+43.248.136.215,ipaddress,BrazenBamboo LightSpy C2 IP Address
+45.125.34.126,ipaddress,BrazenBamboo LightSpy C2 IP Address
+103.43.17.99,ipaddress,BrazenBamboo LightSpy C2 IP Address
+103.27.108.207,ipaddress,BrazenBamboo LightSpy C2 IP Address
+38.55.97.178,ipaddress,BrazenBamboo LightSpy C2 IP Address
+103.27.108.205,ipaddress,BrazenBamboo LightSpy C2 IP Address
+45.155.220.79,ipaddress,BrazenBamboo LightSpy C2 IP Address
+47.238.155.170,ipaddress,BrazenBamboo LightSpy C2 IP Address
+124.156.48.83,ipaddress,BrazenBamboo LightSpy C2 IP Address
+103.27.108.152,ipaddress,BrazenBamboo LightSpy C2 IP Address
+47.238.153.120,ipaddress,BrazenBamboo LightSpy C2 IP Address
